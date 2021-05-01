@@ -1,12 +1,13 @@
 # Site settings
 name: name
 email: email
-url: url
+url: "https://kimpeter2018.github.io"
 description: "A blog and a portfolio"
-author: "author"
-title: "BlogFolio"
+author: "kimpeter2018"
+title: "Peter's Blog"
 permalink: pretty
 baseurl: /jekyll-theme-blogfolio
+remote_theme : "lamccloskey/jekyll-theme-blogfolio"
 
 # social
 github:
